@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>∀</title>
+    <link>https://saiyameh.github.io/</link>
+    <description>Recent content on ∀</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Apr 2025 13:48:26 +0530</lastBuildDate>
+    <atom:link href="https://saiyameh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birthday Paradox</title>
+      <link>https://saiyameh.github.io/posts/birthdayparadox/</link>
+      <pubDate>Sun, 20 Apr 2025 13:48:26 +0530</pubDate>
+      <guid>https://saiyameh.github.io/posts/birthdayparadox/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>
