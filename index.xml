@@ -13,8 +13,21 @@
       <link>https://saiyameh.github.io/posts/birthdayparadox/</link>
       <pubDate>Sun, 20 Apr 2025 13:48:26 +0530</pubDate>
       <guid>https://saiyameh.github.io/posts/birthdayparadox/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>&lt;p&gt;​&#xA;A veridical paradox which defines the simple beauty of mathematics&lt;/p&gt;&#xA;&lt;p&gt;How many people do we need to consider so that it&amp;rsquo;s more likely than not that at least $2$ of them share a birthday?&lt;/p&gt;&#xA;&lt;p&gt;$1^{st}$ thought which comes to the mind is $366$ (considering no twins, no leap years, or any other uncertainities) which isn&amp;rsquo;t wrong but what if I say that, with $75$ people, the probability of $2$ people sharing a birthday is $\approx99.97%$&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>​
+A veridical paradox which defines the simple beauty of mathematics</p>
+<p>How many people do we need to consider so that it&rsquo;s more likely than not that at least $2$ of them share a birthday?</p>
+<p>$1^{st}$ thought which comes to the mind is $366$ (considering no twins, no leap years, or any other uncertainities) which isn&rsquo;t wrong but what if I say that, with $75$ people, the probability of $2$ people sharing a birthday is $\approx99.97%$</p>
+<p>To understand this, lets try to find people who don&rsquo;t share birthday i.e $\bar{P}$ $\&amp;$ then calculate $P$</p>
+<p>For $1^{st}$ person, $365/365$</p>
+<p>For $2^{nd}$ person, $364/365$</p>
+<p>For $3^{rd}$ person, $363/365$ $\&amp;\ so\ on$</p>
+<p>$\bar{P}(for\ 23\ people)=364!/(365^{22}*342!)=.493\ or\ 49.3%$</p>
+<p>$\therefore\ P(for\ 23\ people)=1-.49\approx.5\ or\ 50%$</p>
+<p><img src="/images/prob.png" alt="comparison"></p>
+<p>An intuitive thought to understand how this is possible with only $23$ people is to visualize the number of pairs possible i.e $^{23}C_{2}=253$</p>
+<p><img src="/images/23.png" alt="pairs"></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
