@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probability on ∀</title>
-    <link>http://localhost:1313/tags/probability/</link>
+    <link>https://saiyameh.github.io/tags/probability/</link>
     <description>Recent content in Probability on ∀</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Apr 2025 13:48:26 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saiyameh.github.io/tags/probability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Birthday Paradox</title>
-      <link>http://localhost:1313/posts/birthdayparadox/</link>
+      <link>https://saiyameh.github.io/posts/birthdayparadox/</link>
       <pubDate>Sun, 20 Apr 2025 13:48:26 +0530</pubDate>
-      <guid>http://localhost:1313/posts/birthdayparadox/</guid>
+      <guid>https://saiyameh.github.io/posts/birthdayparadox/</guid>
       <description>&lt;p&gt;​&#xA;A veridical paradox which defines the simple beauty of mathematics&lt;/p&gt;&#xA;&lt;p&gt;How many people do we need to consider so that it&amp;rsquo;s more likely than not that at least $2$ of them share a birthday?&lt;/p&gt;&#xA;&lt;p&gt;$1^{st}$ thought which comes to the mind is $366$ (considering no twins, no leap years, or any other uncertainities) which isn&amp;rsquo;t wrong but what if I say that, with $75$ people, the probability of $2$ people sharing a birthday is $\approx99.97%$&lt;/p&gt;</description>
     </item>
   </channel>

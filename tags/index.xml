@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ∀</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://saiyameh.github.io/tags/</link>
     <description>Recent content in Tags on ∀</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Apr 2025 13:48:26 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saiyameh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paradox</title>
-      <link>http://localhost:1313/tags/paradox/</link>
+      <link>https://saiyameh.github.io/tags/paradox/</link>
       <pubDate>Sun, 20 Apr 2025 13:48:26 +0530</pubDate>
-      <guid>http://localhost:1313/tags/paradox/</guid>
+      <guid>https://saiyameh.github.io/tags/paradox/</guid>
       <description></description>
     </item>
     <item>
       <title>Probability</title>
-      <link>http://localhost:1313/tags/probability/</link>
+      <link>https://saiyameh.github.io/tags/probability/</link>
       <pubDate>Sun, 20 Apr 2025 13:48:26 +0530</pubDate>
-      <guid>http://localhost:1313/tags/probability/</guid>
+      <guid>https://saiyameh.github.io/tags/probability/</guid>
       <description></description>
     </item>
   </channel>
