@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ∀</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 13:48:26 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 17:30:00 +0530</lastBuildDate>
     <atom:link href="https://saiyameh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BARC OCES/DGFS 2025 Memory Based Questions</title>
+      <link>https://saiyameh.github.io/posts/barc/</link>
+      <pubDate>Tue, 22 Apr 2025 17:30:00 +0530</pubDate>
+      <guid>https://saiyameh.github.io/posts/barc/</guid>
+      <description>&lt;p&gt;Almost negligible PYQs are available for this exam (specially for CSE), so I want to share all the memory-based questions of BARC 2025&lt;/p&gt;&#xA;&lt;p&gt;HASHING (2Q+): Index for different keys, Chaining concepts&lt;br&gt;&#xA;AVL TREES: Balance factor of a particular node after removing a node (given)&lt;br&gt;&#xA;ROUTING (3Q): IP addresses contained in a given subnet, Next hop for a IP address according to routing table&lt;br&gt;&#xA;PAGE REPLACEMENT ALGORITHMS (2Q+)&lt;br&gt;&#xA;PROCESS SCHEDULING: RR scheduling question that asked for Average TAT &amp;amp; Average WT&lt;br&gt;&#xA;C PROGRAMMING (9Q+): Tell o/p of given program, Choose missing line of program, Concept of pointers, arrays, malloc, struct, union &amp;amp; much more&lt;br&gt;&#xA;FRAGMENTATION (5Q): Maximum data size which can be transferred for a given MTU, Tell data transferred with the help of values of given MF, Offset and some other fields (we multiply the offset by 8 and add the data size if MF=0)&lt;br&gt;&#xA;SYNCHRONIZATION (5 to 6Q): Semaphores (maximum &amp;amp; minimum no. of times the threads will execute), Does the thread follow bounded waiting, mutual exclusion, progress&lt;br&gt;&#xA;FORK() (2Q): No. of times print() will be executed&lt;br&gt;&#xA;SORTING: How will the list look like after 2 pass of merge sort&lt;br&gt;&#xA;EXPRESSION EVALUATION : Implementation of stack for a postfix expression&lt;br&gt;&#xA;LOGIC GATES : Identify the gate from the given state transition diagram&#xA;PROPOSITIONAL LOGIC (2Q)&lt;br&gt;&#xA;SQL QUERY (3Q+)&lt;br&gt;&#xA;PNC (basic) (2Q+)&lt;br&gt;&#xA;STOP AND WAIT (basic formula implementation/unitary method)&lt;br&gt;&#xA;TOC GRAMMAR (3Q+): Check if Left Recursive, Check if Ambiguous&lt;br&gt;&#xA;DAG (Intermediate Code Generation) (2Q): Identify the number of nodes &amp;amp; edges for the given 3 address instructions&lt;br&gt;&#xA;K-MAP: No. of 1&amp;rsquo;s in K-Map for given function&lt;br&gt;&#xA;MASTER&amp;rsquo;S THEOREM (1Q)&lt;br&gt;&#xA;CRC (3Q+) (a few theory-based questions regarding error detection)&lt;br&gt;&#xA;CYCLOMATIC COMPLEXITY (1Q)&lt;br&gt;&#xA;NUMERICAL RELATED TO LOC (1Q)&lt;br&gt;&#xA;S/W ENGINEERING (theoretical) (2Q)&lt;br&gt;&#xA;GRAPH THEORY (2Q+): No. of graphs possible with n vertices, Bipartite Graph&#xA;LR PARSER: Comparison of no. of states in different LR parsers&lt;br&gt;&#xA;CN (theoretical) (2Q+): Protocols for different layers (matching related question)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Birthday Paradox</title>
       <link>https://saiyameh.github.io/posts/birthdayparadox/</link>
